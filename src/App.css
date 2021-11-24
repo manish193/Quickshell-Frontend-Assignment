@@ -26,7 +26,7 @@
 .minusCounter {
   border-radius: 8px 0px 0px 8px;
   width: 56px;
-  height: 56px;
+  height: 55px;
   border-color: #b24242;
   background-color: white;
   border-style: hidden;
@@ -36,8 +36,10 @@
   color: #b24242;
 }
 .value {
-  width: 68px;
-  height: 56px;
+  text-align: center;
+
+  width: 64px;
+  height: 54px;
   background-color: #fbe8e8;
   border-style: hidden;
   font-weight: 900;
