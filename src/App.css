@@ -3,11 +3,11 @@
   position: relative;
   width: 257px;
   height: 130px;
-  border-radius: 2px;
   box-shadow: 0 2px 5px rgb(194, 194, 194);
-  height: 130px;
-  margin: 150px auto;
+  margin: 400px auto ;
   background-color: #ffffff;
+  border-radius: 2px;
+
 }
 .container {
   position: relative;
