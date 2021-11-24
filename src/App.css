@@ -1,9 +1,13 @@
 .board {
+  display: block;
+  position: relative;
   width: 257px;
   height: 130px;
-  border-style: ridge;
-  margin: auto;
-  box-shadow: 0.5px 0.5px;
+  border-radius: 2px;
+  box-shadow: 0 2px 5px rgb(194, 194, 194);
+  height: 130px;
+  margin: 150px auto;
+  background-color: #ffffff;
 }
 .container {
   position: relative;
